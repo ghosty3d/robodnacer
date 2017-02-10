@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: c822050ee0b9d44d79e28b9a57ac3af5
+timeCreated: 1486522258
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robodancer_hand
+    21300002: robodancer_neck
+    21300004: robodancer_leg
+    21300006: robodancer_arm
+    21300008: robodancer_pelvis
+    21300010: robodancer_feet
+    21300012: robodancer_stomack
+    21300014: robodancer_chest
+    21300016: robodancer_head
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robodancer_hand
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 875
+        width: 15
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_neck
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 913
+        width: 23
+        height: 103
+      alignment: 9
+      pivot: {x: 0.524658, y: 0.089776196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_leg
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 829
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_arm
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 924
+        width: 93
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_pelvis
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 928
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_feet
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 955
+        width: 120
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_stomack
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 902
+        width: 147
+        height: 114
+      alignment: 9
+      pivot: {x: 0.55, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_chest
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 828
+        width: 267
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robodancer_head
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 474
+        width: 435
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: robodancer
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
